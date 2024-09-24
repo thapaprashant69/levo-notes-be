@@ -1,0 +1,5 @@
+.venv/
+venv/
+__pycache__/
+5.1.0
+instance/
